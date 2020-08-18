@@ -53,3 +53,8 @@ https://github.com/milligram/milligram
 
 http://kaisermann.github.io/rolleiflex/
 https://github.com/kaisermann/rolleiflex 
+
+#FLEXBOX PATTERNS
+
+Common CSS Flexbox Layout Patterns with Example Code
+https://tobiasahlin.com/blog/common-flexbox-patterns/ 
