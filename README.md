@@ -57,4 +57,27 @@ https://github.com/kaisermann/rolleiflex
 #FLEXBOX PATTERNS
 
 Common CSS Flexbox Layout Patterns with Example Code
-https://tobiasahlin.com/blog/common-flexbox-patterns/ 
+https://tobiasahlin.com/blog/common-flexbox-patterns/
+
+Flexbox random grid
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/examples/flexbox_random_grid_1
+
+12 columns flexbox
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/examples/flexbox_12_column_grid_1
+
+Vertical 12 columns 
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/examples/flexbox_12_column_grid_vertical_1
+
+Nexted grid
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/flexbox/examples/flexbox_12_column_grid_vertical_1
+
+#GRID PATTERNS
+
+Vertical 12 columns
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/grid/examples/12_column_grid_vertical_example_1
+
+Responsive vertical 12 columns
+https://www.quackit.com/html/html_editors/scratchpad/?example=/css/grid/examples/12_column_grid_vertical_responsive_media_query
+
+Grid layout examples
+https://www.quackit.com/css/grid/examples/css_12_column_grid_examples.cfm
